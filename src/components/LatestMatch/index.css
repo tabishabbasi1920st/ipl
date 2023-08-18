@@ -1,0 +1,16 @@
+@media screen and (max-width: 320px) {
+  .latest-match-main-container {
+    width: 100%;
+    border: 2px solid black;
+  }
+
+  .first-container {
+    border: 2px solid green;
+    background-color: #0f172a;
+  }
+
+  .second-container {
+    border: 2px solid blue;
+    background-color: #0f172a;
+  }
+}

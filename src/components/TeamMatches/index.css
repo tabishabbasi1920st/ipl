@@ -1,0 +1,25 @@
+@media screen and (max-width: 320px) {
+  .team-matches-bg-container {
+    height: 100vh;
+    width: 100%;
+    border: 2px solid red;
+    padding: 10px;
+    background-color: #d91c1f;
+  }
+
+  .team-matches-banner-container {
+    height: 150px;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+
+  .team-matches-banner-img {
+    height: 100%;
+    width: 100%;
+  }
+
+  .latest-match-heading {
+    color: #fff;
+    font-size: 20px;
+  }
+}
